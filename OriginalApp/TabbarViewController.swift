@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
+//  TabbarViewController.swift
 //  OriginalApp
 //
-//  Created by 妹尾駿 on H30/06/25.
+//  Created by 妹尾駿 on H30/06/19.
 //  Copyright © 平成30年 porme.inc. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class TabbarViewController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MiddleObjectiveViewController.swift
 //  OriginalApp
 //
 //  Created by 妹尾駿 on H30/06/25.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MiddleObjectiveViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

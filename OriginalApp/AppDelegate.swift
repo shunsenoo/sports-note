@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  OriginalApp
-//
-//  Created by 妹尾駿 on H30/05/07.
-//  Copyright © 平成30年 porme.inc. All rights reserved.
-//
 
 import UIKit
 
@@ -15,6 +8,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+        
+        
+        
         // Override point for customization after application launch.
         return true
     }

@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
+//  AddHealthViewController.swift
 //  OriginalApp
 //
-//  Created by 妹尾駿 on H30/06/25.
+//  Created by 妹尾駿 on H30/05/26.
 //  Copyright © 平成30年 porme.inc. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class AddHealthViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -1,14 +1,10 @@
-//
-//  ViewController.swift
-//  OriginalApp
-//
-//  Created by 妹尾駿 on H30/06/25.
-//  Copyright © 平成30年 porme.inc. All rights reserved.
-//
 
 import UIKit
+import RealmSwift
 
-class ViewController: UIViewController {
+class GroupSettingViewController: UIViewController {
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()

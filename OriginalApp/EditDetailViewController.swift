@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
+//  EditDetailViewController.swift
 //  OriginalApp
 //
-//  Created by 妹尾駿 on H30/06/25.
+//  Created by 妹尾駿 on H30/06/28.
 //  Copyright © 平成30年 porme.inc. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class EditDetailViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
